@@ -1,0 +1,60 @@
+#poi{
+    list-style-type: none;
+    margin-top: 57px;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(76, 73, 73);
+    width: 101.4%;
+    border-width: black;
+    left: 0%;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+
+li {
+    float: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: rgb(158, 157, 157);
+    color: black;
+}
+
+#tre{
+    list-style-type: none;
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 103%;
+    margin-top: -10px;
+    margin-right: -10px;
+    margin-left: -10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    position: fixed;
+    top: 0;
+ }
+
+ .degrade-angulaire{
+    background: linear-gradient(90deg, rgb(196, 10, 196), rgb(60, 2, 146));
+ }
+
+body{
+    background-color: rgb(22, 22, 22);
+}
